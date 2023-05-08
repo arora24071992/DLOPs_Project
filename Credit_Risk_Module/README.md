@@ -1,10 +1,11 @@
-**Credit Risk Prediction App:**
+# Credit Risk Prediction App:
+
 This repository contains a Streamlit web application that uses a neural network to predict credit risk based on German credit data. The app provides an interactive interface for users to input their data and receive a prediction on whether their credit risk is "Good" or "Bad".
 
-__Dataset__
+## Dataset
 The dataset used for this project is the German Credit dataset, which contains 1000 instances with 20 attributes and a binary target variable indicating credit risk. The attributes include both continuous and categorical features, such as duration, credit amount, age, and checking account status.
 
-__Models__
+## Models 
 Three different neural network models are available for selection in the app:
 
 Credit Scoring Model 1
@@ -12,7 +13,7 @@ Credit Scoring Model 2
 Credit Scoring Model 3
 These models have different architectures and activation functions, allowing users to explore the impact of these choices on the prediction results.
 
-Installation
+## Installation
 1. Clone the repository
 
 2. Create and activate a virtual environment
@@ -27,7 +28,7 @@ streamlit run app.py
 
 5. Open the app in your web browser by navigating to the URL displayed in the terminal (usually http://localhost:8501).
 
-**Usage**
+## Usage 
 
 1. Select a model from the sidebar.
 2. Navigate to the "Prediction" page.
