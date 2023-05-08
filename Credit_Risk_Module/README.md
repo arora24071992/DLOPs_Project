@@ -35,3 +35,8 @@ streamlit run app.py
 3. Input your data using the provided input fields.
 4. Click the "Predict" button to generate a prediction.
 5. The app will display the predicted credit risk as either "Good" or "Bad" based on the selected model and input data.
+
+## Diagram
+
+<img width="1792" alt="image" src="https://user-images.githubusercontent.com/111610085/236722432-61caf332-93a5-4911-aa69-d14730138e5c.png">
+
