@@ -33,7 +33,7 @@ The model predicts the stock prices and displays the actual and predicted prices
 
 This project is for educational purposes only and should not be used for financial decisions or trading.
 
-Diagram:
+## Diagram:
 
 <img width="1792" alt="image" src="https://user-images.githubusercontent.com/111610085/236722217-a4b4a9d6-172d-4446-a8c7-613a9af8cb23.png">
 
